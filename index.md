@@ -10,7 +10,7 @@ Interests: Heat and Moisture Migration in building materials.
 Research Group Website: 
 
 
-[Research Group of Building Physics at the University of Udine](http://www.diegm.uniud.it/prof-saro/)
+[Research Group of Building Physics at the University of Udine](http://www.diegm.uniud.it/prof-saro/fisica-tecnica-ambientale/)
 
 
 
@@ -27,3 +27,5 @@ PhD Course Website:
 
 Advanced risk assessment for mould growth conditions and interstitial condensation in building envelopes
 Description: The health and safety criticalities of building enclosures are mainly related to vapour migration and heat transfer. Residential, historic and public buildings that have not been properly designed, eventualy suffer from mould or rising dump. Advanced hygrothermal simulations of building envelopes could be used for the assessment of the risk of interstitial condensation and mould growth conditions, but they are relatively recent and not well known to technicians. The aim of this research activity is to find new applications and procedures to ensure better health, safety and comfort standards for the built environment.
+
+![Moisture migration in building materials](http://www.dpia.uniud.it/saro/fisica-tecnica-ambientale/ham/moisture.gif)
