@@ -23,3 +23,6 @@ Advanced risk assessment for mould growth conditions and interstitial condensati
 Description: The health and safety criticalities of building enclosures are mainly related to vapour migration and heat transfer. Residential, historic and public buildings that have not been properly designed, eventualy suffer from mould or rising dump. Advanced hygrothermal simulations of building envelopes could be used for the assessment of the risk of interstitial condensation and mould growth conditions, but they are relatively recent and not well known to technicians. The aim of this research activity is to find new applications and procedures to ensure better health, safety and comfort standards for the built environment. Website: [PhD in Environmental and Energy Engineering Science](http://158.110.32.35/PhD-EEES/index.html)
 
 ![Moisture migration in building materials](http://www.dpia.uniud.it/saro/fisica-tecnica-ambientale/ham/moisture.gif)
+
+## IBPC2018: Hygrothermal modelling of building enclosures: reference year design for moisture accumulation and condensation risk assessment
+[plots](http://www.diegm.uniud.it/prof-saro/fisica-tecnica-ambientale/libralato/index.html)
