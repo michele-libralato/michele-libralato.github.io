@@ -24,7 +24,7 @@ Description: The health and safety criticalities of building enclosures are main
 
 ![Moisture migration in building materials](http://www.dpia.uniud.it/saro/fisica-tecnica-ambientale/ham/moisture.gif)
 
-## Publications
+## Publications:
 
 De Angelis A, M. Libralato, O. Saro (2018). Numerical simulations of coupled conduction-free convection in low conductive vertical finned surfaces. Modelling, Measurement and Control, 79(3), 98-102. [full-text](http://www.iieta.org/sites/default/files/Journals/MMC/MMC_C/79.03_06.pdf)
 
