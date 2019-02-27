@@ -28,7 +28,7 @@ Description: The health and safety criticalities of building enclosures are main
 
 De Angelis A, M. Libralato, O. Saro (2018). Numerical simulations of coupled conduction-free convection in low conductive vertical finned surfaces. Modelling, Measurement and Control, 79(3), 98-102. [full-text](http://www.iieta.org/sites/default/files/Journals/MMC/MMC_C/79.03_06.pdf)
 
-Libralato M, G. Murano, O. Saro, and A. De Angelis (2018).  Hygrothermal modelling of building enclo-sures: reference year design for moisture accumula-tion and condensation risk assessment. In 7th Inter-national Building Physics Conference, IBPC2018 September 23-26 2018, Syracuse, NY, USA.
+Libralato M, G. Murano, O. Saro, A. De Angelis and V. Corrado (2018).  Hygrothermal modelling of building enclo-sures: reference year design for moisture accumula-tion and condensation risk assessment. In 7th Inter-national Building Physics Conference, IBPC2018 September 23-26 2018, Syracuse, NY, USA.
 [plots](http://www.diegm.uniud.it/prof-saro/fisica-tecnica-ambientale/libralato/index.html) [full-text](http://amz.xcdsystem.com/476EFEC7-D8CF-7470-232B140485F971CA_abstract_File1159/FinalPaperFileUpload_211_0707090237.pdf) [poster](http://amz.xcdsystem.com/476EFEC7-D8CF-7470-232B140485F971CA_abstract_File2260/PresentationUpload_211_0914102952.pdf)
 
 Libralato M, O. Saro, A. De Angelis, and S. Spinazze (2019). Comparison between Glaser Method and Heat, Air and Moisture Transient Model for Moisture Migration in Building Envelopes. Applied Mechanics and Materials  887, 385–392.
