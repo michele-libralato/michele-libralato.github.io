@@ -25,8 +25,9 @@ Description: The health and safety criticalities of building enclosures are main
 ![Moisture migration in building materials](http://www.dpia.uniud.it/saro/fisica-tecnica-ambientale/ham/moisture.gif)
 
 ## Publications:
+Libralato M, A. De Angelis, O. Saro (2019). Evaluation of the ground-coupled quasi-stationary heat transfer in buildings by means of an accurate and computationally efficient numerical approach and comparison with the ISO 13370 procedure. Journal of Building Performance Simulation, In press. [doi](https://doi.org/10.1080/19401493.2019.1628304) 
 
-De Angelis A, M. Libralato, O. Saro (2018). Numerical simulations of coupled conduction-free convection in low conductive vertical finned surfaces. Modelling, Measurement and Control, 79(3), 98-102. [full-text](http://www.iieta.org/sites/default/files/Journals/MMC/MMC_C/79.03_06.pdf)
+De Angelis A, M. Libralato, O. Saro (2018). Numerical simulations of coupled conduction-free convection in low conductive vertical finned surfaces. Modelling, Measurement and Control, 79(3), 98-102. [doi](https://doi.org/10.18280/mmc-c.790306) [full-text](http://www.iieta.org/sites/default/files/Journals/MMC/MMC_C/79.03_06.pdf)
 
 Libralato M, G. Murano, O. Saro, A. De Angelis and V. Corrado (2018).  Hygrothermal modelling of building enclo-sures: reference year design for moisture accumula-tion and condensation risk assessment. In 7th Inter-national Building Physics Conference, IBPC2018 September 23-26 2018, Syracuse, NY, USA.
 [plots](http://www.diegm.uniud.it/prof-saro/fisica-tecnica-ambientale/libralato/index.html) [full-text](http://amz.xcdsystem.com/476EFEC7-D8CF-7470-232B140485F971CA_abstract_File1159/FinalPaperFileUpload_211_0707090237.pdf) [poster](http://amz.xcdsystem.com/476EFEC7-D8CF-7470-232B140485F971CA_abstract_File2260/PresentationUpload_211_0914102952.pdf)
