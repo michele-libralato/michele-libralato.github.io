@@ -21,8 +21,7 @@ Description: The health and safety criticalities of building enclosures are main
 ![Moisture migration in building materials](http://www.dpia.uniud.it/saro/fisica-tecnica-ambientale/ham/moisture.gif)
 
 ## Publications:
-Libralato M, G. Murano, A. De Angelis, O. Saro, V. Corrado (2020). Influence of the Meteorological Record Length on the Generation of Representative Weather Files. (Energies, 2020), 13, 2103.  
- [full-text](http://www.ibpsa.org/proceedings/BS2019/BS2019_210832.pdf)
+Libralato M, G. Murano, A. De Angelis, O. Saro, V. Corrado (2020). Influence of the Meteorological Record Length on the Generation of Representative Weather Files. (Energies, 2020), 13, 2103. [doi](https://doi.org/10.3390/en13082103) [full-text](http://www.ibpsa.org/proceedings/BS2019/BS2019_210832.pdf)
 
 
 Zu K, M. Qin, C. Rode, M. Libralato (2020) Development of a moisture buffer value model (MBM) for indoor moisture prediction (2020). Applied Thermal Engineering Volume 171, 5 May 2020, 115096 (Elsevier, 2020) [doi](https://doi.org/10.1016/j.applthermaleng.2020.115096)
