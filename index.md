@@ -22,13 +22,13 @@ Description: The health and safety criticalities of building enclosures are main
 
 ## Publications:
 
-Libralato M, De Angelis A, Saro O, Qin M, Rode C (2021). Effects of considering moisture hysteresis on wood decay risk simulations of building envelopes (Elsevier, 2021) [doi](https://doi.org/10.1016/j.jobe.2021.102444)
+Libralato M, De Angelis A, Saro O, Qin M, Rode C (2021). Effects of considering moisture hysteresis on wood decay risk simulations of building envelopes. Journal of Building Engineering (Elsevier, 2021) [doi](https://doi.org/10.1016/j.jobe.2021.102444)
 
 Libralato M, De Angelis A, D'Agaro P, Cortella G, Saro O (2021). Multiyear hygrothermal performance simulations of historic building envelopes (SBE21 Sustainable Built Heritage)
 
-Comini G, Libralato M (2020). Cambiamento Climatico. Il punto di vista Fisico Tecnico. (SGE Padova) [anteprima](https://www.researchgate.net/publication/344754067_CAMBIAMENTO_CLIMATICO_IL_PUNTO_DI_VISTA_FISICO_TECNICO) [acquista online](https://www.libreriauniversitaria.it/cambiamento-climatico-punto-vista-fisico/libro/9788889884386)
+Comini G, Libralato M (2020). Cambiamento Climatico. Il punto di vista Fisico Tecnico. ISBN: 888988438X (SGE Padova) [anteprima](https://www.researchgate.net/publication/344754067_CAMBIAMENTO_CLIMATICO_IL_PUNTO_DI_VISTA_FISICO_TECNICO) [acquista online](https://www.libreriauniversitaria.it/cambiamento-climatico-punto-vista-fisico/libro/9788889884386)
 
-Libralato M, G. Murano, A. De Angelis, O. Saro, V. Corrado (2020). Influence of the Meteorological Record Length on the Generation of Representative Weather Files. (Energies, 2020), 13, 2103. [doi](https://doi.org/10.3390/en13082103) [full-text](http://pro.unibz.it/library/bupress/publications/fulltext/9788860461766.pdf)
+Libralato M, G. Murano, A. De Angelis, O. Saro, V. Corrado (2020). Influence of the Meteorological Record Length on the Generation of Representative Weather Files. Energies (MDPI, 2020), 13, 2103. [doi](https://doi.org/10.3390/en13082103) [full-text](http://pro.unibz.it/library/bupress/publications/fulltext/9788860461766.pdf)
 
 Zu K, M. Qin, C. Rode, M. Libralato (2020) Development of a moisture buffer value model (MBM) for indoor moisture prediction (2020). Applied Thermal Engineering Volume 171, 5 May 2020, 115096 (Elsevier, 2020) [doi](https://doi.org/10.1016/j.applthermaleng.2020.115096)
 
