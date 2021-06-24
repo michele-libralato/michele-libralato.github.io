@@ -11,6 +11,19 @@ Post-doc at [Università degli Studi di Udine (University of Udine)](http://158.
 
 [EN ISO 13788.2013 Glaser Method implemented in Octave](https://github.com/michele-libralato/glaser_method_octave)
 
+### blog posts:
+  {% for post in site.posts %}
+  <article>
+    <h2>
+      <a href="{{ post.url }}">
+        {{ post.title }}
+      </a>
+    </h2>
+    <time datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date_to_long_string }}</time>
+    {{ post.content }}
+  </article>
+{% endfor %}
+
 
 ### PhD Thesis: 
 
