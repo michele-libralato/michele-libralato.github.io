@@ -19,7 +19,7 @@ permalink:articles.html
   </article>
 {% endfor %}
 
-For comments and feedback:
+### comments and feedback:
 
 [Instagram](https://www.instagram.com/michele.libralato)
 
