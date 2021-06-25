@@ -20,6 +20,7 @@ permalink:articles.html
 {% endfor %}
 
 For comments and feedback:
+
 [Instagram](https://www.instagram.com/michele.libralato)
 
 [Twitter](https://www.twitter.com/mi_libr)
