@@ -3,7 +3,7 @@ layout: post
 title: Blog Articles
 category: blog
 tags: blogging
-permalink:articles.html
+permalink:blog.html
 ---
 
 ### blog posts:
