@@ -1,8 +1,8 @@
 ---
 layout: post
-title: First Post
+title: WUFIplus batch mode
 category: OT
-tags: blogging
+tags: WUFI, HMT, BES
 ---
 
 # WUFIplus batch mode
