@@ -3,7 +3,7 @@ layout: post
 title: WUFIplus batch mode
 category: OT
 tags: WUFI, HMT, BES
-authors: Michele Libralato
+author: Michele Libralato
 ---
 
 For some reason WUFIplus manual instructions to activete batch mode don't work on every system. With this workaround it worked:
