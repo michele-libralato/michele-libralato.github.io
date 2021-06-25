@@ -3,6 +3,7 @@ layout: post
 title: Blog Articles
 category: blog
 tags: blogging
+author:Michele Libralato
 permalink:blog.html
 ---
 
