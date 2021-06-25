@@ -1,6 +1,10 @@
 ### Michele Libralato
 Post-doc at [Università degli Studi di Udine (University of Udine)](http://158.110.32.35/PhD-EEES/). 
 
+### github projects:
+
+[blog](https://michele-libralato.github.io/blog.html)
+
 
 ### Research Group Website: 
 
