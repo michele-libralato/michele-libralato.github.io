@@ -1,3 +1,11 @@
+---
+layout: post
+title: Blog Articles
+category: blog
+tags: blogging
+permalink:articles.html
+---
+
 ### blog posts:
   {% for post in site.posts %}
   <article>
