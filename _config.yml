@@ -1,2 +1,8 @@
 theme: jekyll-theme-minimal
 permalink: /:year/:month/:day/:title:output_ext
+
+plugins:
+  - jekyll-feed
+title: Michele Libralato
+description: Blog di Michele Libralato
+author: Michele Libralato
