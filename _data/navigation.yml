@@ -1,0 +1,14 @@
+- name: Home 
+  link: /
+- name: Blog
+  link: /blog.html
+- name: Instagram  
+  link: https://www.instagram.com/michele.libralato
+- name: Twitter
+  link: https://www.twitter.com/mi_libr
+- name: ResearchGate
+  link: https://www.researchgate.net/profile/Michele-Libralato
+- name: LinkedIn
+  link: https://www.linkedin.com/in/michele-libralato-1a9a07102/
+- name: GitHub
+  link: https://github.com/michele-libralato
