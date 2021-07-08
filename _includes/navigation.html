@@ -1,29 +1,7 @@
 <nav>
-  <a href="/" {% if page.url == "/" %}style="color: red;"{% endif %}>
-    Home
-  </a>
-  <a href="/blog.html" {% if page.url == "/blog.html" %}style="color: red;"{% endif %}>
-    Blog
-  </a>
-  
-  <a href="https://www.instagram.com/michele.libralato">
-    Instagram
-  </a>
-
-  <a href="https://www.twitter.com/mi_libr">
-    Twitter
-  </a>
-
-  <a href="https://www.researchgate.net/profile/Michele-Libralato">
-    ResearchGate
-  </a>
-
-  <a href="https://www.linkedin.com/in/michele-libralato-1a9a07102/">
-    LinkedIn
-  </a>
-
-  <a href="https://github.com/michele-libralato">
-    GitHub
-  </a>
-
+  {% for item in site.data.navigation %}
+    <a href="{{ item.link }}" {% if page.url == item.link %}style="color: red;"{% endif %}>
+      {{ item.name }}
+    </a>
+  {% endfor %}
 </nav>
