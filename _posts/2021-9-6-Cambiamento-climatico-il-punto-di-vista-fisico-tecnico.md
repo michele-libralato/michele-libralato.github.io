@@ -21,7 +21,8 @@ In questo quadro, il volume si propone di far risparmiare tempo e fatica a chi, 
 
 <img src="https://raw.githubusercontent.com/michele-libralato/michele-libralato.github.io/master/images/figura_lq.jpg " alt="Figure Cambiamento climatico il punto di vista fisico tecnico" title="Figure" width=800px>
 
-A tal fine, nel testo si sono presentati i punti chiave dei Rapporti del Comitato Intergovernativo sul Cambiamento Climatico (IPCC) e, per completare la panoramica, non si sono trascurate nemmeno le segnalazioni di rischi aggiuntivi provenienti, in “tempo reale”, da fonti molto attendibili (la rivista Nature per prima). Per facilitare la comprensione si è seguito il ben collaudato “format” dei volumi didattici: prima le conoscenze di base, successivamente le metodologie utilizzate ed alla fine la presentazione dei risultati ottenuti. Particolare cura è stata dedicata alle esigenze di render sempre note le fonti delle informazioni utilizzate e, allo stesso tempo, di spiegare e non dare mai scontate le affermazioni chiare solo agli “addetti ai lavori”.
+A tal fine, nel testo si sono presentati i punti chiave dei Rapporti del Comitato Intergovernativo sul Cambiamento Climatico (IPCC) e, per completare la panoramica, non si sono trascurate nemmeno le segnalazioni di rischi aggiuntivi provenienti, in “tempo reale”, da fonti molto attendibili (la rivista Nature per prima). Per facilitare la comprensione si è seguito il ben collaudato “format” dei volumi didattici: prima le conoscenze di base, successivamente le metodologie utilizzate ed alla fine la presentazione dei risultati ottenuti. Particolare cura è stata dedicata alle esigenze di render sempre note le fonti delle informazioni utilizzate e, allo stesso tempo, di spiegare e non dare mai scontate le affermazioni chiare solo agli “addetti ai lavori”. 
+Di particolare importanza è il quarto capitolo, nel quale viene illustrato il 'Sesto Rapporto IPCC sul cambiamento climatico – Le basi fisiche', pubblicato il 9 agosto 2021, e sono riassunte le conclusioni della COP26, svoltasi a Glasgow dal 31 ottobre al 15 novembre 2021.
 
 ## Recensioni
 
@@ -48,5 +49,8 @@ Il volume ha ricevuto diverse recensioni da specialisti del settore su blog e su
 
 **Michele Libralato** è dottore di ricerca in Scienze dell’Ingegneria Energetica e Ambientale. Dal 2016 svolge attività di ricerca nel settore della Fisica Tecnica Ambientale presso l’Università di Udine
 
-## [Link per l'ordine](https://www.libreriauniversitaria.it/cambiamento-climatico-punto-vista-fisico/libro/9788889884386)
-"Il Cambiamento Climatico - Il punto di vista fisico tecnico" è edito da SGE Padova, ISBN: 888988438X
+"Il Cambiamento Climatico - Il punto di vista fisico tecnico" è edito da SGE Padova, ISBN: 888988438X (non disponibile)
+
+"Il cambiamento climatico - Il punto di vista fisico-tecnico. Nuova edizione" è edito da libreriauniversitaria.it EAN:9788833594392 ISBN:8833594394
+
+## [Link per l'ordine](https://www.libreriauniversitaria.it/cambiamento-climatico-comini-gianni-libreriauniversitaria/libro/9788833594392)
