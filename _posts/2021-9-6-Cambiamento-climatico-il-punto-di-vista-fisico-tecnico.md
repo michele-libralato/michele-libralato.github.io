@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Recensioni di Cambiamento Climatico - il punto di vista fisico tecnico (Ita only)
+title: Recensioni di Cambiamento Climatico - il punto di vista fisico tecnico (IT)
 category: Libri
 tags: Cambiamento climatico, Libri, didattica
 author: Michele Libralato
