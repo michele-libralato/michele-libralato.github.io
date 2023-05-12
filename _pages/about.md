@@ -9,7 +9,8 @@ redirect_from:
 ---
 
 ### Michele Libralato
-Researcher at [Università degli Studi di Udine (University of Udine)](https://people.uniud.it/page/michele.libralato). 
+Researcher at [Politechnic Department of Engineering and Architecture](https://newsdpia.uniud.it/) of the [Università degli Studi di Udine (University of Udine)](https://people.uniud.it/page/michele.libralato). Laboratory: [Thermal Systems Lab](https://thermalsystems.uniud.it/) 
+
 
 ### Libri di testo
 [Il cambiamento climatico - Il punto di vista fisico-tecnico. Nuova ediz.](https://www.libreriauniversitaria.it/cambiamento-climatico-comini-gianni-libreriauniversitaria/libro/9788833594392)
