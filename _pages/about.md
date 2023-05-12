@@ -16,7 +16,7 @@ Researcher at [Università degli Studi di Udine (University of Udine)](https://p
 ![Il cambiamento climatico - Il punto di vista fisico-tecnico. Nuova ediz.](images/cc.jpg)
 
 [Verso una nuova energetica. Dalle fonti esauribili alla decarbonizzazione](https://www.libreriauniversitaria.it/verso-nuova-energetica-fonti-esauribili/libro/9788833594750)
-![Verso una nuova energetica. Dalle fonti esauribili alla decarbonizzazione](images(ne.jpg)
+![Verso una nuova energetica. Dalle fonti esauribili alla decarbonizzazione](images/ne.jpg)
 ### Publications/Pubblicazioni
 [List of publications/Lista di pubblicazioni](https://air.uniud.it/browse?type=author&order=ASC&rpp=50&authority=rp10686)
 
