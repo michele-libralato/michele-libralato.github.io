@@ -13,10 +13,11 @@ Researcher at [Università degli Studi di Udine (University of Udine)](https://p
 
 ### Libri di testo
 [Il cambiamento climatico - Il punto di vista fisico-tecnico. Nuova ediz.](https://www.libreriauniversitaria.it/cambiamento-climatico-comini-gianni-libreriauniversitaria/libro/9788833594392)
+
 [Verso una nuova energetica. Dalle fonti esauribili alla decarbonizzazione](https://www.libreriauniversitaria.it/verso-nuova-energetica-fonti-esauribili/libro/9788833594750)
 
 ### Publications/Pubblicazioni
-[List of publications/Lista di pubblicaziono](https://air.uniud.it/browse?type=author&order=ASC&rpp=50&authority=rp10686)
+[List of publications/Lista di pubblicazioni](https://air.uniud.it/browse?type=author&order=ASC&rpp=50&authority=rp10686)
 
 ### PhD Thesis: 
 
