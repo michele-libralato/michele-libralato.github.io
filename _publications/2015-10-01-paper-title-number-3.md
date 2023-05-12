@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 3"
+title: "Evaluation of the ground-coupled quasi-stationary heat transfer in buildings by means of an accurate and computationally efficient numerical approach and comparison with the ISO 13370 procedure"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+permalink: /publication/ground
+excerpt: 'The purpose of this article is to present and validate a computationally efficient numerical approach for the calculation of the ground-coupled heat transfer in buildings with periodic boundary conditions. When the boundary conditions of the heat transfer problem are described by periodic functions, it is possible to consider the transient state problem as a quasi-stationary problem with considerable savings in terms of computational time. The method is presented in detail from a mathematical point of view, together with a validation for two simple cases of slab-on-grade thermal losses, four comparisons with the ISO 13370:2007 procedure, a case with a complex shape and an evaluation of the computational efficiency.'
+date: 2019-01-13
+venue: 'Journal of Building Performance Simulation'
+paperurl: 'https://doi.org/10.1080/19401493.2019.1628304'
+citation: ' M. Libralato, A. De Angelis & O. Saro (2019) Evaluation of the ground-coupled quasi-stationary heat transfer in buildings by means of an accurate and computationally efficient numerical approach and comparison with the ISO 13370 procedure, Journal of Building Performance Simulation, 12:5, 719-727, DOI: 10.1080/19401493.2019.1628304
+'
 ---
-This paper is about the number 3. The number 4 is left for future work.
+[Download paper here](https://doi.org/10.1080/19401493.2019.1628304)
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
-
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+Recommended citation:  M. Libralato, A. De Angelis & O. Saro (2019) Evaluation of the ground-coupled quasi-stationary heat transfer in buildings by means of an accurate and computationally efficient numerical approach and comparison with the ISO 13370 procedure, Journal of Building Performance Simulation, 12:5, 719-727, DOI: 10.1080/19401493.2019.1628304
+.
