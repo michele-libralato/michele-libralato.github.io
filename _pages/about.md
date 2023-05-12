@@ -11,10 +11,12 @@ redirect_from:
 ### Michele Libralato
 Researcher at [Università degli Studi di Udine (University of Udine)](https://people.uniud.it/page/michele.libralato). 
 
-### github projects:
+### Libri di testo
+[Il cambiamento climatico - Il punto di vista fisico-tecnico. Nuova ediz.](https://www.libreriauniversitaria.it/cambiamento-climatico-comini-gianni-libreriauniversitaria/libro/9788833594392)
+[Verso una nuova energetica. Dalle fonti esauribili alla decarbonizzazione](https://www.libreriauniversitaria.it/verso-nuova-energetica-fonti-esauribili/libro/9788833594750)
 
-[EN ISO 13788.2013 Glaser Method implemented in Octave](https://github.com/michele-libralato/glaser_method_octave)
-
+### Publications/Pubblicazioni
+[List of publications/Lista di pubblicaziono](https://air.uniud.it/browse?type=author&order=ASC&rpp=50&authority=rp10686)
 
 ### PhD Thesis: 
 
@@ -24,4 +26,7 @@ Description: The health and safety criticalities of building enclosures are main
 
 ![Moisture migration in building materials](images/moisture.gif)
 
+### github projects:
+
+[EN ISO 13788.2013 Glaser Method implemented in Octave](https://github.com/michele-libralato/glaser_method_octave)
 
