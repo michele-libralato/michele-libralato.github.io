@@ -12,12 +12,18 @@ redirect_from:
 Researcher at [Politechnic Department of Engineering and Architecture](https://newsdpia.uniud.it/) of the [Università degli Studi di Udine (University of Udine)](https://people.uniud.it/page/michele.libralato). Laboratory: [Thermal Systems Lab](https://thermalsystems.uniud.it/) 
 
 
-### Libri di testo
+### Libri di testo (textbooks)
+## Dal cambiamento climatico a un sistema energetico sostenibile
 [Il cambiamento climatico - Il punto di vista fisico-tecnico. Nuova ediz.](https://www.libreriauniversitaria.it/cambiamento-climatico-comini-gianni-libreriauniversitaria/libro/9788833594392)
+
 ![Il cambiamento climatico - Il punto di vista fisico-tecnico. Nuova ediz.](images/cc.jpg)
 
 [Verso una nuova energetica. Dalle fonti esauribili alla decarbonizzazione](https://www.libreriauniversitaria.it/verso-nuova-energetica-fonti-esauribili/libro/9788833594750)
+
 ![Verso una nuova energetica. Dalle fonti esauribili alla decarbonizzazione](images/ne.jpg)
+
+I due libri di testo sono in continuo aggiornamento. Gli aggiornamenti sono scaricabili gratuitamente dalla pagina web del [ Dipartimento di Energia e Ambiente (DEA) del Centro Internazionale di Scienze Meccaniche (CISM)]([https://www.libreriauniversitaria.it/verso-nuova-energetica-fonti-esauribili/libro/9788833594750](https://www.cism.it/dea-downloads/))
+
 ### Publications/Pubblicazioni
 [List of publications/Lista di pubblicazioni](https://air.uniud.it/browse?type=author&order=ASC&rpp=50&authority=rp10686)
 
