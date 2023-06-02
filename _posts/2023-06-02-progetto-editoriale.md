@@ -13,21 +13,13 @@ Il progetto è iniziato con due volumi didattici in italiano:
 * **Il Cambiamento Climatico - il Punto di vista Fisico Tecnico**, "libreriauniversitaria.it" Padova, Gennaio 2022 e
 (Leggi le recensioni)[https://michele-libralato.github.io/libri/Cambiamento-climatico-il-punto-di-vista-fisico-tecnico/] o (acquista il libro)
 [https://www.libreriauniversitaria.it/cambiamento-climatico-comini-gianni-libreriauniversitaria/libro/9788833594392]
-![Il cambiamento climatico - Il punto di vista fisico-tecnico. Nuova ediz.](images/cc.jpg)
+
+![Il cambiamento climatico - Il punto di vista fisico-tecnico. Nuova ediz.]("images/cc.jpg")
 
 * **Verso una Nuova Energia -  Dalle fonti esauribili alla decarbonizzazione**, "libreriauniversitaria.it" Padova, Maggio 2022. (Acquista il libro)[https://www.libreriauniversitaria.it/verso-nuova-energetica-fonti-esauribili/libro/9788833594750]
-![Verso una nuova energetica. Dalle fonti esauribili alla decarbonizzazione](images/ne.jpg)
+
+![Verso una nuova energetica. Dalle fonti esauribili alla decarbonizzazione]("images/ne.jpg")
 
 Nel volume sul Cambiamento Climatico, l'effetto delle emissioni di gas serra sul bilancio energetico della Terra viene prima discusso in dettaglio da un punto di vista fisico. Successivamente, vengono presentati in forma semplificata i modelli climatici a lungo termine e i punti chiave dei rapporti IPCC. In questo quadro vengono discusse a fondo le conseguenze del riscaldamento globale per la terra, l'oceano e la criosfera. Particolare enfasi viene posta anche sulle soglie dei cambiamenti bruschi e irreversibili (Tipping Point) e sulla sinistra proprietà della distribuzione gaussiana che spiega perché anche un piccolo aumento della temperatura globale può produrre grandi aumenti nella frequenza di eventi catastrofici. 
 
 Nel volume "Verso una nuova energia" la transizione energetica viene presentata con un approccio storico. In primo luogo vengono illustrate le fonti primarie esauribili e viene discusso criticamente il possibile ruolo della fissione nucleare nell'approvvigionamento energetico mondiale. Successivamente, vengono esaminate le fonti di energia rinnovabili dal punto di vista del loro possibile contributo a un nuovo sistema energetico più sostenibile. Infine, vengono discusse le strategie e le tecnologie necessarie per decarbonizzare il Pianeta, giustificando il ruolo prioritario che sarà svolto dalla produzione di energia elettrica in eccesso rispetto al fabbisogno attuale e il ruolo non secondario che sarà assegnato all'idrogeno.
-
-
-
-## Autori
-
-**Gianni Comini** è stato professore ordinario di Fisica Tecnica nelle Università di Trieste e Udine dal 1975 al 2010 e, dal 2010, è Direttore del Dipartimento di Energia e Ambiente del Centro Internazionale per le Scienze Meccaniche (CISM) di Udine.
-
-**Michele Libralato** è dottore di ricerca in Scienze dell’Ingegneria Energetica e Ambientale. Dal 2016 svolge attività di ricerca nel settore della Fisica Tecnica Ambientale presso l’Università di Udine
-
-"Il Cambiamento Climatico - Il punto di vista fisico tecnico" è edito da SGE Padova, ISBN: 888988438X (non disponibile)
