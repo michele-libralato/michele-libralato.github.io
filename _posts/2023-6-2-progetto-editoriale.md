@@ -7,20 +7,22 @@ author: Michele Libralato
 ---
 **Dal cambiamento climatico a un sistema energetico sostenibile** è un progetto editoriale di Gianni Comini (Dipartimento di Energia e Ambiente del Centro Internazionale di Scienze Meccaniche, CISM di Udine) e Michele Libralato (Dipartimento Politecnico di Ingegneria e Architettura dell'Università degli Studi di Udine).
 Secondo la missione del Dipartimento Energia e Ambiente del CISM il progetto fornisce ai non specialisti un'informazione continua e indipendente su temi quali:
+
 * Come agire abbastanza rapidamente per evitare i peggiori impatti del riscaldamento globale?
 * Come sostituire i combustibili fossili con le energie rinnovabili senza rinunciare alle auto che guidiamo e alle case che abitiamo?
+
 Il progetto è iniziato con due volumi didattici in italiano:
+
 * **Il Cambiamento Climatico - il Punto di vista Fisico Tecnico**, "libreriauniversitaria.it" Padova, Gennaio 2022
-* 
+
 [Leggi le recensioni](https://michele-libralato.github.io/libri/Cambiamento-climatico-il-punto-di-vista-fisico-tecnico/) 
 
 [Acquista il libro](https://www.libreriauniversitaria.it/cambiamento-climatico-comini-gianni-libreriauniversitaria/libro/9788833594392)
 
 <img src="https://raw.githubusercontent.com/michele-libralato/michele-libralato.github.io/master/images/cc.jpg" alt="Copertina Cambiamento climatico il punto di vista fisico tecnico" title="Copertina" width=200px>
 
-
 * **Verso una Nuova Energia -  Dalle fonti esauribili alla decarbonizzazione**, "libreriauniversitaria.it" Padova, Maggio 2022. 
-* 
+
 [Acquista il libro](https://www.libreriauniversitaria.it/verso-nuova-energetica-fonti-esauribili/libro/9788833594750)
 
 <img src="https://raw.githubusercontent.com/michele-libralato/michele-libralato.github.io/master/images/ne.jpg" alt="Verso una nuova energetica. Dalle fonti esauribili alla decarbonizzazione" title="Copertina" width=200px>
