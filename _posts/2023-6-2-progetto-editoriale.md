@@ -10,15 +10,17 @@ Secondo la missione del Dipartimento Energia e Ambiente del CISM il progetto for
 * Come agire abbastanza rapidamente per evitare i peggiori impatti del riscaldamento globale?
 * Come sostituire i combustibili fossili con le energie rinnovabili senza rinunciare alle auto che guidiamo e alle case che abitiamo?
 Il progetto è iniziato con due volumi didattici in italiano:
-* **Il Cambiamento Climatico - il Punto di vista Fisico Tecnico**, "libreriauniversitaria.it" Padova, Gennaio 2022 e
-[Leggi le recensioni](https://michele-libralato.github.io/libri/Cambiamento-climatico-il-punto-di-vista-fisico-tecnico/) o [acquista il libro]
-(https://www.libreriauniversitaria.it/cambiamento-climatico-comini-gianni-libreriauniversitaria/libro/9788833594392)
+* **Il Cambiamento Climatico - il Punto di vista Fisico Tecnico**, "libreriauniversitaria.it" Padova, Gennaio 2022
+[Leggi le recensioni](https://michele-libralato.github.io/libri/Cambiamento-climatico-il-punto-di-vista-fisico-tecnico/) 
+[acquista il libro](https://www.libreriauniversitaria.it/cambiamento-climatico-comini-gianni-libreriauniversitaria/libro/9788833594392)
 
-![Il cambiamento climatico - Il punto di vista fisico-tecnico. Nuova ediz.](images/cc.jpg)
+<img src="https://raw.githubusercontent.com/michele-libralato/michele-libralato.github.io/master/images/cc.jpg" alt="Copertina Cambiamento climatico il punto di vista fisico tecnico" title="Copertina" width=200px>
 
-* **Verso una Nuova Energia -  Dalle fonti esauribili alla decarbonizzazione**, "libreriauniversitaria.it" Padova, Maggio 2022. [Acquista il libro] (https://www.libreriauniversitaria.it/verso-nuova-energetica-fonti-esauribili/libro/9788833594750)
 
-![Verso una nuova energetica. Dalle fonti esauribili alla decarbonizzazione](images/ne.jpg)
+* **Verso una Nuova Energia -  Dalle fonti esauribili alla decarbonizzazione**, "libreriauniversitaria.it" Padova, Maggio 2022. 
+[Acquista il libro](https://www.libreriauniversitaria.it/verso-nuova-energetica-fonti-esauribili/libro/9788833594750)
+
+<img src="https://raw.githubusercontent.com/michele-libralato/michele-libralato.github.io/master/images/ne.jpg" alt="Verso una nuova energetica. Dalle fonti esauribili alla decarbonizzazione" title="Copertina" width=200px>
 
 Nel volume sul Cambiamento Climatico, l'effetto delle emissioni di gas serra sul bilancio energetico della Terra viene prima discusso in dettaglio da un punto di vista fisico. Successivamente, vengono presentati in forma semplificata i modelli climatici a lungo termine e i punti chiave dei rapporti IPCC. In questo quadro vengono discusse a fondo le conseguenze del riscaldamento globale per la terra, l'oceano e la criosfera. Particolare enfasi viene posta anche sulle soglie dei cambiamenti bruschi e irreversibili (Tipping Point) e sulla sinistra proprietà della distribuzione gaussiana che spiega perché anche un piccolo aumento della temperatura globale può produrre grandi aumenti nella frequenza di eventi catastrofici. 
 
