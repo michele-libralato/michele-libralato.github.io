@@ -49,7 +49,7 @@ Il volume ha ricevuto diverse recensioni da specialisti del settore su blog e su
 
 **Michele Libralato** è dottore di ricerca in Scienze dell’Ingegneria Energetica e Ambientale. Dal 2016 svolge attività di ricerca nel settore della Fisica Tecnica Ambientale presso l’Università di Udine
 
-"Il Cambiamento Climatico - Il punto di vista fisico tecnico" è edito da SGE Padova, ISBN: 888988438X (non disponibile)
+"Il Cambiamento Climatico - Il punto di vista fisico tecnico" è edito da SGE Padova, ISBN: 888988438X (prima edizione, non disponibile)
 
 "Il cambiamento climatico - Il punto di vista fisico-tecnico. Nuova edizione" è edito da libreriauniversitaria.it EAN:9788833594392 ISBN:8833594394
 
