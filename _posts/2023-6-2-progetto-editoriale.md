@@ -11,13 +11,16 @@ Secondo la missione del Dipartimento Energia e Ambiente del CISM il progetto for
 * Come sostituire i combustibili fossili con le energie rinnovabili senza rinunciare alle auto che guidiamo e alle case che abitiamo?
 Il progetto è iniziato con due volumi didattici in italiano:
 * **Il Cambiamento Climatico - il Punto di vista Fisico Tecnico**, "libreriauniversitaria.it" Padova, Gennaio 2022
+* 
 [Leggi le recensioni](https://michele-libralato.github.io/libri/Cambiamento-climatico-il-punto-di-vista-fisico-tecnico/) 
-[acquista il libro](https://www.libreriauniversitaria.it/cambiamento-climatico-comini-gianni-libreriauniversitaria/libro/9788833594392)
+
+[Acquista il libro](https://www.libreriauniversitaria.it/cambiamento-climatico-comini-gianni-libreriauniversitaria/libro/9788833594392)
 
 <img src="https://raw.githubusercontent.com/michele-libralato/michele-libralato.github.io/master/images/cc.jpg" alt="Copertina Cambiamento climatico il punto di vista fisico tecnico" title="Copertina" width=200px>
 
 
 * **Verso una Nuova Energia -  Dalle fonti esauribili alla decarbonizzazione**, "libreriauniversitaria.it" Padova, Maggio 2022. 
+* 
 [Acquista il libro](https://www.libreriauniversitaria.it/verso-nuova-energetica-fonti-esauribili/libro/9788833594750)
 
 <img src="https://raw.githubusercontent.com/michele-libralato/michele-libralato.github.io/master/images/ne.jpg" alt="Verso una nuova energetica. Dalle fonti esauribili alla decarbonizzazione" title="Copertina" width=200px>
