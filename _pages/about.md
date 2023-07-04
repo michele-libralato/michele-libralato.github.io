@@ -24,7 +24,7 @@ Researcher at [Politechnic Department of Engineering and Architecture](https://n
 ![Verso una nuova energetica. Dalle fonti esauribili alla decarbonizzazione](images/ne.jpg)
 
 ### Aggiornamenti
-I due libri di testo sono in continuo aggiornamento. Gli aggiornamenti sono scaricabili gratuitamente dalla pagina web del [ Dipartimento di Energia e Ambiente (DEA) del Centro Internazionale di Scienze Meccaniche (CISM)]([https://www.libreriauniversitaria.it/verso-nuova-energetica-fonti-esauribili/libro/9788833594750](https://www.cism.it/dea-downloads/))
+I due libri di testo sono in continuo aggiornamento. Gli aggiornamenti sono scaricabili gratuitamente dalla pagina web del [ Dipartimento di Energia e Ambiente (DEA) del Centro Internazionale di Scienze Meccaniche (CISM)](https://www.cism.it/dea-downloads/)
 
 ## Publications/Pubblicazioni
 [List of publications/Lista di pubblicazioni](https://air.uniud.it/browse?type=author&order=ASC&rpp=50&authority=rp10686)
