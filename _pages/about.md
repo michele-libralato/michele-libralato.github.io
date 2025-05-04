@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ### Michele Libralato
-Researcher at [Politechnic Department of Engineering and Architecture](https://newsdpia.uniud.it/) of the [Università degli Studi di Udine (University of Udine)](https://people.uniud.it/page/michele.libralato). Laboratory: [Thermal Systems Lab](https://thermalsystems.uniud.it/) 
+Postdoc at [Politechnic Department of Engineering and Architecture](https://newsdpia.uniud.it/) of the [Università degli Studi di Udine (University of Udine)](https://people.uniud.it/page/michele.libralato). Laboratory: [Thermal Systems Lab](https://thermalsystems.uniud.it/) 
 
 
 ## Libri di testo (textbooks)
