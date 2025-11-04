@@ -30,7 +30,7 @@ Extract the frames with this line:
 ```
 ffmpeg -i video.mp4 frame_%04d.png
 ```
-Ffmpeg creates the frame images. Now create a python file with the following code:
+Ffmpeg creates the frame images. Now create and run a .py file with the following script:
 ``` python
 from skimage.io import imread, imsave
 from skimage.color import rgb2gray
