@@ -27,13 +27,11 @@ Process:
 Frame extraction requires the installation of ffmpeg, remeber to put it in the environmental variables.
 create a folder, copy the mp4 in the folder and open a terminal at that folder.
 Extract the frames with this line:
-'''
+```
 ffmpeg -i video.mp4 frame_%04d.png
-'''
+```
 Ffmpeg creates the frame images. Now create a python file with the following code:
-''' python
-
-
+``` python
 from skimage.io import imread, imsave
 from skimage.color import rgb2gray
 import numpy as np
@@ -77,11 +75,11 @@ for i, path in enumerate(frame_files[1:], start=1):
     print(f"[{i+1}/{len(frame_files)}] Saved {out_path}")
 
 print("\n All intermediate frames saved.")
-'''
+```
 
 the script creates a new folder with the frames of the new video.
 To join them in a sinlge .mp4 file use the following ffmpeg command:
 
-'''
+```
 ffmpeg -framerate 30 -i timelapse_frames/frame_%04d.png -c:v libx264 -pix_fmt yuv420p output.mp4
-'''
+```
